@@ -1,0 +1,31 @@
+[h1]Overview[/h1]
+Sets the maximum building slots per planet to 15.  Intended for use with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2654043078]Basic Planetview: More Districts[/url].
+
+Why does it only add 3 more buildings?  This is due to how the game's UI files are laid out.  The building box is set up in such a way that it is not possible to add scrollbars to it, so 15 is the highest amount of slots that can be added without overflowing the bottom of the intended display area.
+
+Requested by [url=https://steamcommunity.com/profiles/76561198804285928]Ph00nix[/url] - sorry it's only +3.
+
+[h1]Changes[/h1]
+One file that alters the define value [b]MAX_PLANET_BUILDING_SLOTS[/b] from 12 to 15.  The graphical accommodation for this is handled in the parent mod.
+
+[h2]Compatibility[/h2]
+Built for Stellaris version 3.2.* "Herbert," backwards compatible with version 3.1.* "Lem."  This add-on is [b]not[/b] achievement compatible because the maximum number of building slots is controlled by a game configuration setting.
+
+Not compatible with other mods that also adjust the number of building slots.
+
+[h3]Required Dependency Mods[/h3]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2654043078]Basic Planetview: More Districts[/url] makes the basic graphical changes to allow displaying 15 building slots.  If you do not use it, your planets will still have 15 building slots but only 12 of them will fit in the default UI.
+
+[h3]Recommended Companion Mods[/h3]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2650611194]More Standard Districts[/url] adds 5 district types based on basic buildings: Research, Commercial, Leisure, Military, and Administrative.  Commercial Districts are not available for gestalt empires and Leisure Districts are only available for regular empires and Rogue Servitors.
+
+[h3]Not Included in "Subtle Polish"[/h3]
+This mod is intentionally not included in my modpack [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2522974089]Subtle Polish: A Collection of Fixes and Enhancements[/url] because it is an optional, basic UI change targeted at specific screen resolutions.
+
+[h2]Changelog[/h2]
+See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/]Change Notes[/url]
+
+[h2]Source Code[/h2]
+Hosted on [url=https://github.com/corsairmarks/basic-more-districts-planetview-15-building-slots]GitHub[/url]
+
+[url=https://discord.gg/bHVez2C][img]https://i.imgur.com/4Und3QN.png[/img][/url]
