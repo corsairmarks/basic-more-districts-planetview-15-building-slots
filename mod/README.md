@@ -12,7 +12,7 @@ One file that alters the define value `MAX_PLANET_BUILDING_SLOTS` from 12 to 15.
 
 ## Compatibility
 
-Built for Stellaris version 3.3.\* "Libra" backwards compatible with versions 3.2.\* "Herbert" and 3.1.\* "Lem."  This add-on is **not** achievement compatible because the maximum number of building slots is controlled by a game configuration setting.
+Built for Stellaris version 3.3.\* "Libra."  This add-on is **not** achievement compatible because the maximum number of building slots is controlled by a game configuration setting.
 
 Not compatible with other mods that also adjust the number of building slots.
 
@@ -31,6 +31,7 @@ This mod is intentionally not included in my modpack [Subtle Polish: A Collectio
 ## Changelog
 
 * 1.0.0 Initial version
+* 2.0.0 Mark as compatible for Stellaris 3.3 "Libra" - no script changes, but the parent mod is no longer backwards compatible
 
 ## Source Code
 
