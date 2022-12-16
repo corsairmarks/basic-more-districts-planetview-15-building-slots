@@ -31,9 +31,9 @@ This mod is intentionally not included in my modpack [Subtle Polish: A Collectio
 ## Changelog
 
 * 1.0.0 Initial version
-* 2.0.0 Mark as compatible for Stellaris 3.3 "Libra" - no script changes, but the parent mod is not backwards compatible
-* 3.0.0 Mark as compatible for Stellaris 3.4 "Cepheus" - no script changes, but the parent mod is not backwards compatible
-* 4.0.0 Update for Stellaris version 3.6 "Orion" (and changes from version 3.5 "Fornax") - no script changes, but the parent mod is not backwards compatible
+* 2.0.0 Mark as compatible for Stellaris 3.3 version "Libra" - no script changes, but the parent mod is not backwards compatible
+* 3.0.0 Mark as compatible for Stellaris 3.4 version "Cepheus" - no script changes, but the parent mod is not backwards compatible
+* 4.0.0 Mark as compatible for Stellaris version 3.6 "Orion" - no script changes, but the parent mod is not backwards compatible
 
 ## Source Code
 
