@@ -12,7 +12,7 @@ One file that alters the define value `MAX_PLANET_BUILDING_SLOTS` from 12 to 15.
 
 ## Compatibility
 
-Built for Stellaris version 3.6 "Orion."  This add-on is **not** achievement compatible because the maximum number of building slots is controlled by a game configuration setting.
+Built for Stellaris version 3.7 "Canis Minor."  This add-on is **not** achievement compatible because the maximum number of building slots is controlled by a game configuration setting.
 
 Not compatible with other mods that also adjust the number of building slots.
 
@@ -34,6 +34,7 @@ This mod is intentionally not included in my modpack [Subtle Polish: A Collectio
 * 2.0.0 Mark as compatible for Stellaris 3.3 version "Libra" - no script changes, but the parent mod is not backwards compatible
 * 3.0.0 Mark as compatible for Stellaris 3.4 version "Cepheus" - no script changes, but the parent mod is not backwards compatible
 * 4.0.0 Mark as compatible for Stellaris version 3.6 "Orion" - no script changes, but the parent mod is not backwards compatible
+* 5.0.0 Mark as compatible for Stellaris version 3.7 "Canis Minor" - no script changes, but the parent mod is not backwards compatible
 
 ## Source Code
 

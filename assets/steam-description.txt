@@ -9,7 +9,7 @@ Requested by [url=https://steamcommunity.com/profiles/76561198804285928]Ph00nix[
 One file that alters the define value [b]MAX_PLANET_BUILDING_SLOTS[/b] from 12 to 15.  The graphical accommodation for this is handled in the parent mod.
 
 [h2]Compatibility[/h2]
-Built for Stellaris version 3.6 "Orion."  This add-on is [b]not[/b] achievement compatible because the maximum number of building slots is controlled by a game configuration setting.
+Built for Stellaris version 3.7 "Canis Minor."  This add-on is [b]not[/b] achievement compatible because the maximum number of building slots is controlled by a game configuration setting.
 
 Not compatible with other mods that also adjust the number of building slots.
 
